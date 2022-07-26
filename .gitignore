@@ -135,3 +135,7 @@ app/core/migrations/0002_recipe.py
 */migrations/*
 .vscode/settings.json
 app/core/migrations/0003_auto_20220725_1245.py
+app/core/migrations/0004_auto_20220726_0713.py
+app/core/migrations/0001_initial.py
+.vscode/settings.json
+app/core/migrations/0001_initial.py
